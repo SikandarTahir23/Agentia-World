@@ -4,7 +4,7 @@ import { useEffect } from "react";
 
 const ChatBot: React.FC = () => {
     useEffect(() => {
-        const appId = process.env.NEXT_PUBLIC_KOMMUNICATE_APP_ID;
+        const appId = "270b269708162addfd739d819e431b078";
 
         if (!appId) {
             console.error("❌ Kommunicate App ID is missing in environment variables!");

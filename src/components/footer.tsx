@@ -6,11 +6,11 @@ import { Facebook, Twitter, Instagram, Linkedin, Github } from "lucide-react"
 import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer } from "recharts"
 
 const socialLinks = [
-    { icon: Facebook, href: "https://www.facebook.com/profile.php?id=100082268683063" },
-    { icon: Twitter, href: "#" },
-    { icon: Instagram, href: "https://www.instagram.com/itx_umar_official01/" },
-    { icon: Linkedin, href: "https://www.linkedin.com/in/umar-farooq-42a8702b5/" },
-    { icon: Github, href: "https://github.com/umarprogrammer19" },
+    { icon: Facebook, href: "https://www.facebook.com/Arain.Boyz380?mibextid=ZbWKwL" },
+    { icon: Twitter, href: "https://x.com/SikandarTahir23?s=09" },
+    { icon: Instagram, href: "https://www.instagram.com/mrr_sikki?igsh=MTBzMnVhMjB0MmZiMg==" },
+    { icon: Linkedin, href: "https://www.linkedin.com/in/sikandar-tahir-356a56273/" },
+    { icon: Github, href: "https://github.com/SikandarTahir23" },
 ]
 
 const techStack = ["React", "Next.js", "TypeScript", "TensorFlow", "PyTorch", "Quantum Computing", "CUDA", "OpenAI API"]

@@ -24,7 +24,7 @@ export default function RootLayout({
             __html: `
               window.kommunicate = window.kommunicate || {};
               window.kommunicate._globals = {
-                appId: "${process.env.NEXT_PUBLIC_KOMMUNICATE_APP_ID}",
+                appId: "270b269708162addfd739d819e431b078",
                 popupWidget: true,
                 automaticChatOpenOnNavigation: true
               };
